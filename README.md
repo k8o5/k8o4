@@ -1,1 +1,1 @@
-# gold
+# 1 c text editor
